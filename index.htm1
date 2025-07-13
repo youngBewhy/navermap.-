@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>힝! 속았징~😜</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-size: 3rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+    }
+  </style>
+</head>
+<body>
+  힝! 속았징~😜
+</body>
+</html>
